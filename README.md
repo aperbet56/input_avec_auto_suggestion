@@ -6,7 +6,7 @@ Création d'un champ de formulaire avec auto-suggestion en HTML5, CSS3 et JavaSc
 
 ## Démonstration
 
-Lien vers le projet
+Lien vers le projet : https://aperbet56.github.io/input_avec_auto_suggestion/
 
 ## Développez avec
 
